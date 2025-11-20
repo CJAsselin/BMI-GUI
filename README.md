@@ -1,1 +1,1 @@
-# BMI-GUI
+In this file, we have built a GUI which allows users to input their weight, in pounds, and height, in inches, into a widget that will display their BMI after inputting these values and pressing "Calculate BMI".
